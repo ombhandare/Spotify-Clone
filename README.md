@@ -1,0 +1,2 @@
+This project helped me strengthen my front-end skills, especially in DOM manipulation, event handling, and building responsive UIs. It also gave me a better understanding of how real-world music streaming apps are structured and function at the client level.
+The clone is fully responsive, designed with flexible layouts and media queries to ensure smooth usability across different screen sizes and devices. Whether accessed from a desktop, tablet, or smartphone, the interface adapts seamlessly, maintaining visual consistency and functional integrity.
